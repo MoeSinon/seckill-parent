@@ -1,0 +1,9 @@
+com\seckill\goods\pojo\Sku.class
+com\seckill\goods\feign\SkuFeign.class
+com\seckill\goods\pojo\Activity.class
+com\seckill\goods\pojo\SeckillTime.class
+com\seckill\goods\pojo\Order.class
+com\seckill\goods\pojo\UndoLog.class
+com\seckill\goods\pojo\Brand.class
+com\seckill\goods\pojo\SkuAct.class
+com\seckill\goods\pojo\Category.class
